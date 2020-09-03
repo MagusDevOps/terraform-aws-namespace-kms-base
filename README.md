@@ -1,0 +1,1 @@
+# terraform-aws-namespace-kms-base
