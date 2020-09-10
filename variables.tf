@@ -27,8 +27,8 @@ variable "namespace" {
 }
 
 locals {
-  prefix      = "${lower(var.prefix)}"
-  namespace   = "${lower(var.namespace)}"
+  prefix    = "${lower(var.prefix)}"
+  namespace = "${lower(var.namespace)}"
 
   required_tags = "${map(
     var.prefix_tag_key, local.prefix,
