@@ -68,7 +68,7 @@ The following outputs are exported:
 
 ### alias\_arn
 
-### alias\_namn
+### alias\_name
 
 ### key\_arn
 
