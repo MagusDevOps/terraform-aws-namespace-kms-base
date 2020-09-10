@@ -1,4 +1,14 @@
-# terraform-aws-namespace-kms-base## Requirements
+# terraform-aws-namespace-kms-base
+## Usage
+```HCL
+module "namespace-kms-base" {
+  source            = "MagusDevOps/namespace-kms-base/aws"
+  version           = "x.x.x"
+  ...
+}
+```
+
+## Requirements
 
 No requirements.
 
